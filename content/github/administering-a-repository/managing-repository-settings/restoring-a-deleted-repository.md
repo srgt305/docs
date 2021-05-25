@@ -1,4 +1,4 @@
----
+in github:main
 title: Restoring a deleted repository
 intro: You can restore some deleted repositories to recover their contents.
 redirect_from:
